@@ -15,12 +15,35 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+
 }
 .intro {
-  width: 50%;
   font-style: italic;
   color:blueviolet
 }
+
 #closing {
   color: red;
 }
+.flashy {
+  color:red;
+  font-style:italic
+
+}
+.important {
+  color:coral;
+  background-color: aquamarine;
+
+}
+.unimportant {
+  color:darkgreen;
+
+}
+
+.highlight {
+  font-style: italic;
+  color:deeppink;
+  font-weight: bold;
+
+}
+
